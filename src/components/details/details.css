@@ -1,0 +1,36 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    width: 1320px;
+    margin: 20px auto;
+}
+.details-left img{
+    width: 400px;
+    border-radius: 10px;
+}
+.details-main{
+    display: flex;
+}
+.details-center div img{
+    width: 200px;
+}
+.details-center{
+    display: flex;
+   flex-direction: column;
+    margin:auto;
+}
+.ingr-main{
+    display: flex;
+}
+h5{
+    text-align: center;
+}
+.ingr-main div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.details-bottom p{
+    font-size: 14px;
+    text-align: center;
+}

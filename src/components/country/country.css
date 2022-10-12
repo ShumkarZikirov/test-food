@@ -1,0 +1,16 @@
+.country-div img{
+    width: 70px;
+    height: 40px;
+    box-shadow: 10px 10px 10px gray;
+}
+.country-div{
+    margin: 30px auto;
+}
+.country-div h1{
+    font-size: 16px;
+    text-align: center;
+}
+.country-div div{
+    display: flex;
+    justify-content: space-between;
+}

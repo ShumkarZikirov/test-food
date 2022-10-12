@@ -1,0 +1,28 @@
+.main-div{
+    max-width: 1320px;
+    margin: auto;
+}
+.block-product{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.product{
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 10px 10px 10px rgba(128, 128, 128, 0.23);
+}
+.main-img{
+    border-radius: 10px;
+    width: 300px;
+}
+.main-title{
+    text-align: center;
+    font-weight: 600;
+}
+.button-main{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius:  10px;
+}

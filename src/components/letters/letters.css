@@ -1,0 +1,22 @@
+.letters{
+    display: flex;
+    flex-direction: column;
+}
+.letters h5{
+    text-align: center;
+    margin: 20px 0;
+}
+.letters-a{
+    display: flex;
+    justify-content: space-between;
+}
+.letters-a a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 30px;
+    border-right: 2px solid black;
+    padding-right: 20px;
+}
+.letters-a a:last-child{
+    border: none;
+}
